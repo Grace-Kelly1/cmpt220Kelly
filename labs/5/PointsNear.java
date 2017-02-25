@@ -30,6 +30,7 @@ public class PointsNear {
 
     	// Produce End Result
     	System.out.println("The closest two points are " + "(" + points[p1][0] + ", " + points[p1][1] + ") and (" + points[p2][0] + ", " + points[p2][1] + ")");
+		// JA: Yopu forgot to print the z coordinate
 }
 
 public static double distance(
