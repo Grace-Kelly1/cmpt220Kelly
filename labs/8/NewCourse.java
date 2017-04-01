@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+// JA: There is no test class to test this
 public class NewCourse {
 	//11.5
 	class Course {
